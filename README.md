@@ -135,7 +135,8 @@
    localhost/latihan php/Kalkulator/Kal_standar.php
    
 6. lalu akan muncul gambar akhir seperti ini:
-   ![image](https://github.com/rima1133/kalkulator-sederhana-menggunakan-php-dan-mysql/assets/160805683/249ee466-e3b7-49dd-9211-334f18fd522f)
+   ![image](https://github.com/rima1133/kalkulator-sederhana-menggunakan-php-dan-mysql/assets/160805683/effa85f0-6a28-4270-96ff-ceacc645f608)
+
 
 7. selesai.
 
